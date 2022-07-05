@@ -12,6 +12,5 @@ Ubicomp Lab AT SCH
 |Ubuntu |18.04 LTS |  
 |CUDA | 10.2 |
 
-##
-
-Sensor: Depth Cam D455
+## Sensor
+Depth Cam D455
