@@ -11,6 +11,9 @@ Ubicomp Lab AT SCH
 |:---|:---:|
 |Ubuntu |18.04 LTS |  
 |CUDA | 10.2 |
+|MongoDB | 3.6.3 |
+|SDK | 2 |
+|ROS | Melodic |
 
 ## Sensor
 Depth Cam D455
